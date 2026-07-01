@@ -169,5 +169,5 @@ If MySQL is not available or not configured, select **"Run in Demo Mode"** on th
 
 ## Contributors
 
-- 1AT24CS025
-- 1AT24CS029
+- ARGHANEEL DAS
+- ASHUTOSH KUMAR
